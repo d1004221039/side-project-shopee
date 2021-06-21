@@ -608,11 +608,11 @@ sale-owl
     z-index: 3;
 }
 .sale-owl-prev{
-    left: -1%;
+    left: -1.5%;
 }
 
 .sale-owl-next{
-    right: -1%;
+    right: -1.5%;
 }
 
 .sale-items{
@@ -1035,11 +1035,11 @@ hotSaleItem
 }
 
 .hotSaleItem-prev{
-    left: -1%;
+    left: -1.5%;
 }
 
 .hotSaleItem-next{
-    right: -1%;
+    right: -1.5%;
 }
 
 .hotSaleItems{
