@@ -495,6 +495,7 @@ sortInBody
     box-sizing: border-box;
     font-weight: 700;
     text-align: center;    
+    z-index: 1;
 }
 .sortprev{
     left: -1%;
@@ -604,6 +605,7 @@ sale-owl
     box-sizing: border-box;
     font-weight: 700;
     text-align: center;    
+    z-index: 1;
 }
 .sale-owl-prev{
     left: -1%;
@@ -833,6 +835,7 @@ shopee-Mall-down
     box-sizing: border-box;
     font-weight: 700;
     text-align: center;    
+    z-index: 3;
 }
 
 .shopee-Mall-prev{
@@ -1028,6 +1031,7 @@ hotSaleItem
     box-sizing: border-box;
     font-weight: 700;
     text-align: center;    
+    z-index: 3;
 }
 
 .hotSaleItem-prev{
